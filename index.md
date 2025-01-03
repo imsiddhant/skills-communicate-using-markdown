@@ -5,3 +5,7 @@
 ```
 sudo yum install curl
 ```
+
+- [ ] Step 1: Download
+- [ ] Step 2: Install
+- [ ] Step 3: Run
